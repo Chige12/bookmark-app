@@ -1,0 +1,89 @@
+{
+
+    "comments": [{
+            "id": "000",
+            "username": "mikakane",
+            "icon": "MIKAKANE.png",
+            "text": "何かコメントがある時はココに残してください。"
+        },
+        {
+            "id": "000",
+            "username": "mikakane",
+            "icon": "MIKAKANE.png",
+            "text": "Googleなどのアカウントと紐付けるとアイコンが表示されたりすると良いのかも？"
+        },
+        {
+            "id": "001",
+            "username": "yasuirisa",
+            "icon": "YASUI.png",
+            "text": "自分のコメントは右寄せにしたい"
+        }
+    ],
+    "sites": [{
+            "title": "サイトタイトル",
+            "url": "https://github.com",
+            "thumbnail": "site_thumbnail.png",
+            "discription": "説明せつめいせつめい～～",
+            "tags": ["tag1", "tag2", "tag3"]
+        },
+        {
+            "title": "サイトタイトル2",
+            "url": "hogehoge2.com",
+            "thumbnail": "site_thumbnail.png",
+            "discription": "説明が入りますう～～",
+            "tags": ["tag4", "tag5"]
+        },
+        {
+            "title": "ほげほげ",
+            "url": "hogehoge3.com",
+            "thumbnail": "site_thumbnail.png",
+            "discription": "説明が入りますう～～",
+            "tags": ["tag4", "tag1234567"]
+        },
+        {
+            "title": "サイトタイトル2",
+            "url": "hogehoge2.com",
+            "thumbnail": "site_thumbnail.png",
+            "discription": "説明",
+            "tags": ["tag4", "tag5"]
+        },
+        {
+            "title": "サイトタイトル2",
+            "url": "hogehoge2.com",
+            "thumbnail": "site_thumbnail.png",
+            "discription": "説明",
+            "tags": ["tag4", "tag5"]
+        },
+        {
+            "title": "サイトタイトル2",
+            "url": "hogehoge2.com",
+            "thumbnail": "site_thumbnail.png",
+            "discription": "説明",
+            "tags": ["tag4", "tag5"]
+        },
+        {
+            "title": "サイトタイトル2",
+            "url": "hogehoge2.com",
+            "thumbnail": "site_thumbnail.png",
+            "discription": "説明",
+            "tags": ["tag4", "tag5"]
+        },
+        {
+            "title": "サイトタイトル2",
+            "url": "hogehoge2.com",
+            "thumbnail": "site_thumbnail.png",
+            "discription": "説明",
+            "tags": ["tag4", "tag5"]
+        },
+        {
+            "title": "サイトタイトル2",
+            "url": "hogehoge2.com",
+            "thumbnail": "site_thumbnail.png",
+            "discription": "説明",
+            "tags": ["tag4", "tag5"]
+        }
+    ],
+    "tags": [
+        "tag1", "tag2", "tag3", "tag4", "tag5", "tag1234567"
+    ]
+}
